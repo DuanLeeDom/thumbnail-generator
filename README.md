@@ -1,39 +1,39 @@
 # Thumbnail Generator
 
-## Descrição
+## Description
 
-O Thumbnail Generator é uma aplicação simples desenvolvida em Python, utilizando a biblioteca Tkinter para criar uma interface gráfica intuitiva. Este script tem como objetivo facilitar a geração de thumbnails combinando imagens de gameplay e webcam, permitindo a personalização da posição da webcam, cor da divisória e tamanho desejado para a thumbnail.
+The Thumbnail Generator is a simple application developed in Python, utilizing the Tkinter library to create an intuitive graphical interface. This script aims to streamline the process of generating thumbnails by combining gameplay and webcam images, allowing customization of webcam position, divider color, and desired thumbnail size.
 
-## Como Usar
+## How to Use
 
-1. **Instale as Dependências:**
-   Certifique-se de ter o Python instalado em seu sistema. Utilize o seguinte comando no terminal para instalar as bibliotecas necessárias:
+1. **Install Dependencies:**
+   Ensure you have Python installed on your system. Use the following command in the terminal to install the required libraries:
 
    ```bash
    pip install tk Pillow
    ```
 
-2. **Execute o Script:**
-   Salve o código fornecido em um arquivo com extensão ".py", por exemplo, "thumbnail_generator.py". Execute o script usando o seguinte comando no terminal:
+2. **Run the Script:**
+   Save the provided code in a file with a ".py" extension, for example, "thumbnail_generator.py". Run the script using the following command in the terminal:
 
    ```bash
    python thumbnail_generator.py
    ```
 
-3. **Interface Gráfica:**
-   - Selecione a imagem de gameplay clicando no botão "Selecionar Gameplay".
-   - Escolha a imagem da webcam clicando no botão "Selecionar Webcam".
-   - Defina a posição da webcam como "Direita" ou "Esquerda".
-   - Escolha a cor da divisória entre as imagens.
-   - Especifique o tamanho desejado para a thumbnail (em pixels).
+3. **Graphical Interface:**
+   - Select the gameplay image by clicking the "Select Gameplay" button.
+   - Choose the webcam image by clicking the "Select Webcam" button.
+   - Set the webcam position to "Right" or "Left".
+   - Pick the divider color between the images.
+   - Specify the desired size for the thumbnail (in pixels).
 
-4. **Gere a Thumbnail:**
-   Clique no botão "Gerar Thumbnail e Abrir no Visualizador Padrão" para criar a thumbnail combinando as imagens selecionadas e visualizá-la no visualizador de imagens padrão do seu sistema.
+4. **Generate Thumbnail:**
+   Click the "Generate Thumbnail and Open in Default Viewer" button to create the thumbnail by combining the selected images and view it in your system's default image viewer.
 
-## Recursos Adicionais
+## Additional Features
 
-- O script utiliza a biblioteca Pillow (PIL) para manipulação de imagens.
-- Certifique-se de que as imagens de gameplay e webcam estão nos formatos suportados (png, jpg, jpeg, gif).
-- Personalize as opções para obter thumbnails únicas e atraentes para suas necessidades.
+- The script utilizes the Pillow library for image manipulation.
+- Ensure gameplay and webcam images are in supported formats (png, jpg, jpeg, gif).
+- Customize options to obtain unique and appealing thumbnails for your needs.
 
-Desfrute da facilidade de criar thumbnails personalizadas com o Thumbnail Generator!
+Enjoy the ease of creating personalized thumbnails with the Thumbnail Generator!
