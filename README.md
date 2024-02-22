@@ -1,4 +1,5 @@
 # Thumbnail Generator
+![Captura de tela 2024-02-21 214540](https://github.com/DuanLeeDom/Creat-Tumbnaill/assets/116463153/d6a2867a-3336-4bfb-9575-40ab0f99ca24)
 
 ## Description
 
